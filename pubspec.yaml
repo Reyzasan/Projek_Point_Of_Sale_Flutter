@@ -1,0 +1,52 @@
+name: assesment
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/tas.jpg
+    - images/makan.jpg
+    - images/Pizza.jpg
+    - images/banana.jpg
+    - images/bananacake.jpg
+    - images/blackberry.jpg
+    - images/burger.jpg
+    - images/crapesrainbow.jpg
+    - images/durian.jpg
+    - images/fresh1.jpg
+    - images/galaxy.jpg
+    - images/icecreamblac.jpg
+    - images/icecreammatcha.jpg
+    - images/lime.jpg
+    - images/matcha.jpg
+    - images/matchacrapes.jpg
+    - images/matchasoufle.jpg
+    - images/oreo.jpg
+    - images/regal.jpg
+    - images/sandwich.jpg
+    - images/srawchee1.jpg
+    - images/starw.jpg
+    - images/strawchee.jpg
+    - images/strawberry.jpg
+    - images/sunset.jpg
+    - images/telang.jpg
+    - images/unicorn.jpg
+    - images/orion.png
+
+
