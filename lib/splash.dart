@@ -33,7 +33,7 @@ class _SplashScreenState extends State<splashscreen> {
             SizedBox(height: 10), 
 
             Text(
-              "ORION CAFFE",
+              "Starbhak Mart",
               style: TextStyle(
                 fontSize: 45,
                 color: Colors.white,

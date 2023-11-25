@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Orion',
+      title: 'Starbhak Mart',
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.white,
       ),
